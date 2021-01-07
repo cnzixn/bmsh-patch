@@ -1,0 +1,32 @@
+2019.10.01 樂卟嘶屬
+
+
+
+适配版本
+
+安装包
+	ShipWrecked_1.23.apk
+
+数据包
+	/sdcard
+		/Android
+			/obb
+				/com.kleientertainment.doNotStarveShipwrecked
+					/main.38.com.kleientertainment.doNotStarveShipwrecked.obb
+
+
+
+
+使用方法
+
+	0. 如有需要，请自行备份未修改的官方“原版”文件。
+
+	1. “游戏”的安装包(APK)、数据包(OBB)为ZIP文件。
+ 
+	2. 进入ADD_TO_APK，将全部的文件“添加”到安装包。
+ 
+	3. 进入ADD_TO_OBB，将全部的文件“添加”到数据包。
+ 
+	4. 安装包被修改后，需要“签名”才可以被正常安装。
+ 
+	5. 数据包路径中的2个“com”，都需要修改为“hei”。
